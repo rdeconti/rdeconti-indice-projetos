@@ -9,7 +9,7 @@
 - Ferramentas utilizadas
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 💙 Android
+# 🖥️ Android
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
@@ -20,7 +20,7 @@
 |:red_circle:|Best Meal     |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Clique-me</a>|Android|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 💙 Angular
+# 🖥️ Angular
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
@@ -28,7 +28,7 @@
 |:green_circle:|Previsão do tempo       |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo">Clique-me</a>|Html5, Css3|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 💙 Java
+# 🖥️ Java
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
@@ -42,7 +42,7 @@
 |:green_circle:|Gerenciamento de orçamento       |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Orcamento">Clique-me</a>|CQRS, Quarkus, Kafka, EKS|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 💙 C#
+# 🖥️ C#
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
@@ -54,7 +54,7 @@
 |:green_circle:|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 💙 Javascript
+# 🖥️ Javascript
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
@@ -81,7 +81,7 @@
 |:green_circle:|Conferência Alura          |<a href="https://github.com/rdeconti/Projeto-Alura-Conference">Clique-me</a>       |Html5, Css3, Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 💙 React
+# 🖥️ React
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
@@ -90,7 +90,7 @@
 |:green_circle:|Projeto|Covid-19 Pelo Munod   |<a href="https://github.com/rdeconti/Projeto-DIO-ReactJs-Covid19">Clique-me</a> |ReactJs|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 💙 Ruby
+# 🖥️ Ruby
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
@@ -98,7 +98,7 @@
 |:green_circle:|Sistema de classificados |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Sistema-De-Classificados">Clique-me</a>|Ruby|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 💙 Ruby on Rails
+# 🖥️ Ruby on Rails
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
