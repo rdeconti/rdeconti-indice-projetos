@@ -2,8 +2,8 @@
 
 :spiral_calendar: Atualizado em 29 de Abril de 2021 :heart:
 
-## Aqui estão todos os projetos que desenvolvi. Em cada um você encontra:
-- Origem: projetos de minha autoria e projetos realizados durante os cursos em que participei
+## Aqui estão todos os projetos que desenvolvi até agora! Em cada um você encontra:
+- Origem: projetos de minha autoria (:pink_circle:) e projetos realizados durante os cursos em que participei (:yellow_circle:)
 - Nome do projeto
 - Detalhes: acesse o repositório através do link "Clique-me"
 - Ferramentas utilizadas
@@ -14,7 +14,7 @@
 ## Digital Innovation One
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
-|:yellow_circle:|Projeto|Single Page Angular                   |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Single-Page-Angular">Clique-me</a>|Html5, Css3, Angular| none |
+|:   |Projeto|Single Page Angular                   |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Single-Page-Angular">Clique-me</a>|Html5, Css3, Angular| none |
 |:yellow_circle:|Projeto|Previsão do tempo                     |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo">Clique-me</a>|Html5, Css3, Angular| none |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
