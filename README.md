@@ -52,6 +52,7 @@
 |:green_circle:|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
 |:green_circle:|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|.NET,cSharp,Tests|
 |:green_circle:|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp|
+|:green_circle:|ChatBot com IA            |<a href="https://github.com/rdeconti/Projeto-DIO-ChatBot-Ia">Clique-me</a>|C#, Azure|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🖥️ Javascript
@@ -104,13 +105,5 @@
 |------|----|--------|-----------|
 |:green_circle:|Electropalce        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Ruby on Rails|
 |:green_circle:|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby on Rails|
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Digital Innovation One Live Coding (31/12/2021)
-Obs: estes projetos serão revisados somente após o encerramento dos projetos que tenham entrega obrigatória para o encerramento dos bootcamps
-|Origem|Nome|Detalhes|Ferramentas|
-|------|----|--------|-----------|
-|:green_circle:|Projeto|ChatBot com IA      |<a href="https://github.com/rdeconti/Projeto-DIO-ChatBot-Ia">Clique-me</a>|Inteligence Artificial|
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
