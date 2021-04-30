@@ -9,17 +9,6 @@
 - Ferramentas utilizadas
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 🖥️ Android
-
-|Origem|Nome|Detalhes|Ferramentas|
-|------|----|--------|-----------|
-|:red_circle:|Bake House    |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Clique-me</a>|Android|
-|:red_circle:|Elegant Reader|<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/ElegantReader_WITHOUT_KEY">Clique-me</a> |Android|
-|:red_circle:|Find Movies   |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Clique-me</a> |Android|
-|:red_circle:|Quick Jokes   |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Clique-me</a>|Android|
-|:red_circle:|Best Meal     |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Clique-me</a>|Android|
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🖥️ Angular
 
 |Origem|Nome|Detalhes|Ferramentas|
@@ -107,3 +96,13 @@
 |:green_circle:|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby on Rails|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🖥️ Android
+
+|Origem|Nome|Detalhes|Ferramentas|
+|------|----|--------|-----------|
+|:red_circle:|Bake House    |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Clique-me</a>|Android|
+|:red_circle:|Elegant Reader|<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/ElegantReader_WITHOUT_KEY">Clique-me</a> |Android|
+|:red_circle:|Find Movies   |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Clique-me</a> |Android|
+|:red_circle:|Quick Jokes   |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Clique-me</a>|Android|
+|:red_circle:|Best Meal     |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Clique-me</a>|Android|
+
