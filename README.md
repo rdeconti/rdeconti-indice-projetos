@@ -13,6 +13,7 @@
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
+|:red_circle:  |Cadastro de usuários    |<a href="https://github.com/rdeconti/Projeto-DIO-Angular-Cadastro-Usuarios">Clique-me</a>|Html5, Css3, Angular, TypeScript, JavaScript|
 |:green_circle:|Single Page Angular     |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Single-Page-Angular">Clique-me</a>|Html5, Css3|
 |:green_circle:|Previsão do tempo       |<a href="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo">Clique-me</a>|Html5, Css3|
 
