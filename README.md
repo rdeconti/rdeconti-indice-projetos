@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 29 de Abril de 2021 :heart:
+:spiral_calendar: Atualizado em 4 de Maio de 2021 :heart:
 
 ## Aqui estão todos os projetos que desenvolvi até agora! Em cada um você encontra:
 - Origem: projetos de minha autoria 🔴 e projetos realizados durante os cursos em que participei 🟢
