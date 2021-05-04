@@ -101,9 +101,9 @@
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
-|:red_circle:|Bake House    |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/BakeHouse_WITHOUT_KEY">Clique-me</a>|Android|
-|:red_circle:|Elegant Reader|<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/ElegantReader_WITHOUT_KEY">Clique-me</a> |Android|
-|:red_circle:|Find Movies   |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/FindMoviesStage2_WITHOUT_KEY">Clique-me</a> |Android|
-|:red_circle:|Quick Jokes   |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/QuickJokes_WITHOUT_KEY">Clique-me</a>|Android|
-|:red_circle:|Best Meal     |<a href="https://github.com/rdeconti/Curso-Udacity-Android-Developer-Nanodegree/tree/main/Capstone%20-%20BestMeal">Clique-me</a>|Android|
+|:red_circle:|Culinária       |<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Culinaria">Clique-me</a>|Android|
+|:red_circle:|Filmes famosos 1|<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Filmes-Famosos-1">Clique-me</a> |Android|
+|:red_circle:|Filmes famosos 2|<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Filmes-Famosos-2">Clique-me</a> |Android|
+|:red_circle:|Piadas rápidas  |<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Piadas">Clique-me</a>|Android|
+|:red_circle:|Melhor refeição |<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Melhor-Refeicao">Clique-me</a>|Android|
 
