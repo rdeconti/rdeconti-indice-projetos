@@ -32,19 +32,6 @@
 |:green_circle:|Gerenciamento de orçamento       |<a href="https://github.com/rdeconti/Projeto-DIO-Java-Orcamento">Clique-me</a>|CQRS, Quarkus, Kafka, EKS|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 🖥️ C#
-
-|Origem|Nome|Detalhes|Ferramentas|
-|------|----|--------|-----------|
-|:green_circle:|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
-|:green_circle:|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp|
-|:green_circle:|Agenda de contatos        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Agenda-De-Contatos">Clique-me</a>|cSharp, Boostrap, Jquery|
-|:green_circle:|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
-|:green_circle:|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|.NET,cSharp,Tests|
-|:green_circle:|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp|
-|:green_circle:|ChatBot com IA            |<a href="https://github.com/rdeconti/Projeto-DIO-ChatBot-Ia">Clique-me</a>|C#, Azure|
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🖥️ Javascript
 
 |Origem|Nome|Detalhes|Ferramentas|
@@ -70,6 +57,27 @@
 |:green_circle:|Alura News                 |<a href="https://github.com/rdeconti/Projeto-Alura-News">Clique-me</a>             |Html5, Css3, Javascript|
 |:green_circle:|Alura Typer                |<a href="https://github.com/rdeconti/Projeto-Alura-Typer">Clique-me</a>            |Html5, Css3, Javascript|
 |:green_circle:|Conferência Alura          |<a href="https://github.com/rdeconti/Projeto-Alura-Conference">Clique-me</a>       |Html5, Css3, Javascript|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🖥️ Kotiln
+
+|Origem|Nome|Detalhes|Ferramentas|
+|------|----|--------|-----------|
+|:green_circle:|Calculadora de IMC         |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Calculadora-IMC">Clique-me</a>|Android Kotlin|
+|:green_circle:|Calculadora de notas       |<a href="https://github.com/rdeconti/Projeto-DIO-KOTLIN-Calculadora-Notas">Clique-me</a>|Android Kotlin|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🖥️ C#
+
+|Origem|Nome|Detalhes|Ferramentas|
+|------|----|--------|-----------|
+|:green_circle:|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
+|:green_circle:|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp|
+|:green_circle:|Agenda de contatos        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Agenda-De-Contatos">Clique-me</a>|cSharp, Boostrap, Jquery|
+|:green_circle:|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
+|:green_circle:|Vaquinha on-line          |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line">Clique-me</a>|.NET,cSharp,Tests|
+|:green_circle:|API.NET integrada MongoDB |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-API-MongoDB">Clique-me</a>|cSharp|
+|:green_circle:|ChatBot com IA            |<a href="https://github.com/rdeconti/Projeto-DIO-ChatBot-Ia">Clique-me</a>|C#, Azure|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🖥️ React
