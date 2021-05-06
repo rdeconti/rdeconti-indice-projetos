@@ -36,12 +36,12 @@
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
-|:red_circle:  |Meu portfólio       |<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a> |Html5, Css3, Javascript, Bootstrap|
-|:red_circle:  |ByteBank            |<a href="https://github.com/rdeconti/Projeto-ByteBank">Clique-me</a> |Html5, Css3, Javascript, Java, MySql|
-|:red_circle:  |MusicDot            |<a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |Html5, Css3, Javascript|
-|:red_circle:  |Minute News         |<a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |Html5, Css3, Javascript|
-|:red_circle:  |Babies              |<a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
-|:red_circle:  |Potions             |<a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |Html5, Css3, Javascript|
+|:red_circle:  |Meu portfólio              |<a href="https://github.com/rdeconti/rdeconti.github.io">Clique-me</a> |Html5, Css3, Javascript, Bootstrap|
+|:red_circle:  |ByteBank                   |<a href="https://github.com/rdeconti/Projeto-ByteBank">Clique-me</a> |Html5, Css3, Javascript, Java, MySql|
+|:red_circle:  |MusicDot                   |<a href="https://github.com/rdeconti/Projeto-MusicDot">Clique-me</a> |Html5, Css3, Javascript|
+|:red_circle:  |Minute News                |<a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |Html5, Css3, Javascript|
+|:red_circle:  |Babies                     |<a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
+|:red_circle:  |Potions                    |<a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |Html5, Css3, Javascript|
 |:green_circle:|Página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:green_circle:|Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:green_circle:|Jogo da cobrinha           |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Cobrinha">Clique-me</a>|Html5, Css3, Javascript, Canvas|
@@ -63,8 +63,9 @@
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
+|:green_circle:|Lista de contatos          |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos">Clique-me</a>|Android Kotlin|
 |:green_circle:|Calculadora de IMC         |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Calculadora-IMC">Clique-me</a>|Android Kotlin|
-|:green_circle:|Calculadora de notas       |<a href="https://github.com/rdeconti/Projeto-DIO-KOTLIN-Calculadora-Notas">Clique-me</a>|Android Kotlin|
+|:green_circle:|Calculadora de notas       |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Calculadora-Notas">Clique-me</a>|Android Kotlin|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🖥️ C#
