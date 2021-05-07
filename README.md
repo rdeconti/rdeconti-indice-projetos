@@ -3,7 +3,9 @@
 :spiral_calendar: Atualizado em 7 de Maio de 2021 :heart:
 
 ## Aqui estão todos os projetos que desenvolvi até agora! Em cada um você encontra:
-- Origem: projetos de minha autoria 🔴 e projetos realizados durante os cursos em que participei 🟢
+- Origem: 
+  - 🔴 projetos de minha autoria
+  - 🟢 projetos que realizados durante os cursos nos quais participei
 - Nome do projeto
 - Detalhes: acesse o repositório através do link "Clique-me" e verifique o código e documentação no ReadMe
 - Ferramentas utilizadas
@@ -63,9 +65,9 @@
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
-|:green_circle:|Lista de contatos          |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos">Clique-me</a>|Android Kotlin|
-|:green_circle:|Calculadora de IMC         |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Calculadora-IMC">Clique-me</a>|Android Kotlin|
-|:green_circle:|Calculadora de notas       |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Calculadora-Notas">Clique-me</a>|Android Kotlin|
+|:red_circle:  |Lista de contatos          |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos">Clique-me</a>|Android Kotlin|
+|:red_circle:  |Calculadora de IMC         |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Calculadora-IMC">Clique-me</a>|Android Kotlin|
+|:red_circle:  |Calculadora de notas       |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Calculadora-Notas">Clique-me</a>|Android Kotlin|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🖥️ Android - Java
