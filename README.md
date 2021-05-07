@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 4 de Maio de 2021 :heart:
+:spiral_calendar: Atualizado em 7 de Maio de 2021 :heart:
 
 ## Aqui estão todos os projetos que desenvolvi até agora! Em cada um você encontra:
 - Origem: projetos de minha autoria 🔴 e projetos realizados durante os cursos em que participei 🟢
@@ -59,13 +59,24 @@
 |:green_circle:|Conferência Alura          |<a href="https://github.com/rdeconti/Projeto-Alura-Conference">Clique-me</a>       |Html5, Css3, Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 🖥️ Kotiln
+# 🖥️ Android - Kotiln
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
 |:green_circle:|Lista de contatos          |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos">Clique-me</a>|Android Kotlin|
 |:green_circle:|Calculadora de IMC         |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Calculadora-IMC">Clique-me</a>|Android Kotlin|
 |:green_circle:|Calculadora de notas       |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Calculadora-Notas">Clique-me</a>|Android Kotlin|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🖥️ Android - Java
+
+|Origem|Nome|Detalhes|Ferramentas|
+|------|----|--------|-----------|
+|:red_circle:|Culinária       |<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Culinaria">Clique-me</a>|Android|
+|:red_circle:|Filmes famosos 1|<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Filmes-Famosos-1">Clique-me</a> |Android|
+|:red_circle:|Filmes famosos 2|<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Filmes-Famosos-2">Clique-me</a> |Android|
+|:red_circle:|Piadas rápidas  |<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Piadas">Clique-me</a>|Android|
+|:red_circle:|Melhor refeição |<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Melhor-Refeicao">Clique-me</a>|Android|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🖥️ C#
@@ -104,15 +115,3 @@
 |------|----|--------|-----------|
 |:green_circle:|Electropalce        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Ruby on Rails|
 |:green_circle:|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby on Rails|
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 🖥️ Android
-
-|Origem|Nome|Detalhes|Ferramentas|
-|------|----|--------|-----------|
-|:red_circle:|Culinária       |<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Culinaria">Clique-me</a>|Android|
-|:red_circle:|Filmes famosos 1|<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Filmes-Famosos-1">Clique-me</a> |Android|
-|:red_circle:|Filmes famosos 2|<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Filmes-Famosos-2">Clique-me</a> |Android|
-|:red_circle:|Piadas rápidas  |<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Piadas">Clique-me</a>|Android|
-|:red_circle:|Melhor refeição |<a href="https://github.com/rdeconti/Projeto-UDACITY-Android-Java-Aplicativo-Melhor-Refeicao">Clique-me</a>|Android|
-
