@@ -61,10 +61,16 @@
 |:green_circle:|Conferência Alura          |<a href="https://github.com/rdeconti/Projeto-Alura-Conference">Clique-me</a>       |Html5, Css3, Javascript|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 🖥️ Android - Kotiln
+# 🖥️ Android - Kotlin
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
+|:red_circle:  |Kotlin Nativo Watch        |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Nativo-Watch">Clique-me</a>|Kotlin Watch|
+|:red_circle:  |Kotlin Nativo Localização  |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Nativo-Localizacao">Clique-me</a>|Kotlin Localização|
+|:red_circle:  |Kotlin Nativo Camera       |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Nativo-Camera">Clique-me</a>|Kotlin Camera|
+|:red_circle:  |Kotlin Nativo Fotos        |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Nativo-Fotos">Clique-me</a>|Kotlin Fotos|
+|:red_circle:  |Kotlin Nativo Contatos     |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Nativo-Contatos">Clique-me</a>|Kotlin COntatos|
+|:red_circle:  |Kotlin Nativo Agenda       |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Nativo-Agenda">Clique-me</a>|Kotlin Agenda|
 |:red_circle:  |Lista de contatos          |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-Contatos">Clique-me</a>|Android Kotlin|
 |:red_circle:  |Calculadora de IMC         |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Calculadora-IMC">Clique-me</a>|Android Kotlin|
 |:red_circle:  |Calculadora de notas       |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Calculadora-Notas">Clique-me</a>|Android Kotlin|
