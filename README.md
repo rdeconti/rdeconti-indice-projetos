@@ -66,6 +66,7 @@
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
 |:red_circle:  |Lista de Filmes            |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Lista-De-Filmes">Clique-me</a>|Kotlin|
+|:red_circle:  |Controla copos             |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Controla-Copos">Clique-me</a>|Kotlin|
 |:red_circle:  |Pessoas no Espaço          |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Pessoas-No-Espaco">Clique-me</a>|Kotlin|
 |:red_circle:  |Kotlin Nativo Watch        |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Nativo-Watch">Clique-me</a>|Kotlin Watch|
 |:red_circle:  |Kotlin Nativo Localização  |<a href="https://github.com/rdeconti/Projeto-DIO-Kotlin-Nativo-Localizacao">Clique-me</a>|Kotlin Localização|
