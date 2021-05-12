@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 7 de Maio de 2021 :heart:
+:spiral_calendar: Atualizado em 12 de Maio de 2021 :heart:
 
 ## Aqui estão todos os projetos que desenvolvi até agora! Em cada um você encontra:
 - Origem: 
@@ -94,6 +94,7 @@
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
+|:green_circle:|Catálogo de jogos         |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Catalogo-De-Jogos">Clique-me</a>|cSharp|
 |:green_circle:|Transferências bancárias  |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias">Clique-me</a>|cSharp|
 |:green_circle:|Cadastro de séries        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Cadastro-de-series">Clique-me</a>|cSharp|
 |:green_circle:|Agenda de contatos        |<a href="https://github.com/rdeconti/Projeto-DIO-.Net-Agenda-De-Contatos">Clique-me</a>|cSharp, Boostrap, Jquery|
