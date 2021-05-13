@@ -44,6 +44,7 @@
 |:red_circle:  |Minute News                |<a href="https://github.com/rdeconti/Projeto-Minute-News">Clique-me</a> |Html5, Css3, Javascript|
 |:red_circle:  |Babies                     |<a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
 |:red_circle:  |Potions                    |<a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |Html5, Css3, Javascript|
+|:red_circle:  |API de Criptomoedas        |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Criptomoedas">Clique-me</a> |Javascript|
 |:green_circle:|Página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:green_circle:|Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:green_circle:|Jogo da cobrinha           |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Cobrinha">Clique-me</a>|Html5, Css3, Javascript, Canvas|
@@ -53,7 +54,6 @@
 |:green_circle:|Jogo da memória            |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria">Clique-me</a>|Html5, Css3, Javascript|
 |:green_circle:|Jogo da velha              |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Velha">Clique-me</a>|Html5, Css3, Javascript|
 |:green_circle:|Jogo Space Shooter         |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Space-Shooter">Clique-me</a>|Html5, Css3, Javascript|
-|:green_circle:|API de Criptomoedas        |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Criptomoedas">Clique-me</a> |Javascript|
 |:green_circle:|Barbearia Alura            |<a href="https://github.com/rdeconti/Projeto-Barbearia-Alura">Clique-me</a>        |Html5, Css3, Javascript, Html5, Css3|
 |:green_circle:|Aparecida Nutricionista    |<a href="https://github.com/rdeconti/Projeto-Aparecida-Nutricionista">Clique-me</a>|Html5, Css3, Javascript|
 |:green_circle:|Alura News                 |<a href="https://github.com/rdeconti/Projeto-Alura-News">Clique-me</a>             |Html5, Css3, Javascript|
