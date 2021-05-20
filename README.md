@@ -45,6 +45,7 @@
 |:red_circle:  |Babies                     |<a href="https://github.com/rdeconti/Projeto-Bennu-Babies">Clique-me</a> |Html5, Css3, Javascript|
 |:red_circle:  |Potions                    |<a href="https://github.com/rdeconti/Projeto-Merlins-Potions">Clique-me</a> |Html5, Css3, Javascript|
 |:red_circle:  |API de Criptomoedas        |<a href="https://github.com/rdeconti/Projeto-DIO-Javascript-Criptomoedas">Clique-me</a> |Javascript|
+|:green_circle:|Reconhecimento de Voz/Cores|<a href="https://github.com/rdeconti/Projeto-DIO-JavaScript-Reconhecimento-Voz">Clique-me</a>|Javascript|
 |:green_circle:|Página inicial do Instagram|<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Login-Instagram">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:green_circle:|Interface do Netflix       |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Clone-Netflix">Clique-me</a>|Html5, Css3, Javascript, Flexbox|
 |:green_circle:|Jogo da cobrinha           |<a href="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Cobrinha">Clique-me</a>|Html5, Css3, Javascript, Canvas|
