@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 12 de Maio de 2021 :heart:
+:spiral_calendar: Atualizado em 31 de Julho de 2024 :heart:
 
 ## Aqui estão todos os projetos que desenvolvi até agora! Em cada um você encontra:
 - Origem: 
@@ -128,3 +128,12 @@
 |------|----|--------|-----------|
 |:green_circle:|Electropalce        |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Ruby on Rails|
 |:green_circle:|Ieat                |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Ieat">Clique-me</a>|Ruby on Rails|
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🖥️ Binance - Blockchain Developer with Solidity
+
+  - 🔴 projetos em atualização
+
+|Origem|Nome|Detalhes|Ferramentas|
+|------|----|--------|-----------|
+
