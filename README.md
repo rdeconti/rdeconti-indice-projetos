@@ -132,8 +132,15 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🖥️ Binance - Blockchain Developer with Solidity
 
-  - 🔴 projetos em atualização
-
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
+|:green_circle:|Criando e Utilizando a Sua Carteira de Criptomoedas                 |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
+|:green_circle:|Criando a Sua Primeira Criptomoeda da Rede Ethereum                 |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
+|:green_circle:|Desvendando os Contratos Inteligentes com Lógica de Programação     |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
+|:green_circle:|Criando o Seu Primeiro Token do Zero nos Padrões Web3               |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
+|:green_circle:|Criando um NFT na Prática
+|:green_circle:|Criando uma Organização Autônoma Descentralizada nos Padrões Web3   |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
+|:green_circle:|Crie o seu NFT de Pokémon com Blockchain                            |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
+|:green_circle:|Explorando NFTs com Lógica de Programação                           |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
