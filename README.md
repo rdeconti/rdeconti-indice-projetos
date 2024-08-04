@@ -134,7 +134,7 @@
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
-|:green_circle:|Criando e Utilizando a Sua Carteira de Criptomoedas                 |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Projeto 1|
+|:green_circle:|Criando e Utilizando a Sua Carteira de Criptomoedas                 |<a href="https://github.com/rdeconti/Projeto-DIO-Binance-Criando-e-Utilizando-a-Sua-Carteira-de-Criptomoedas">Clique-me</a>|Projeto 1|
 |:green_circle:|Criando a Sua Primeira Criptomoeda da Rede Ethereum                 |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Projeto 2|
 |:green_circle:|Desvendando os Contratos Inteligentes com Lógica de Programação     |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Projeto 3|
 |:green_circle:|Criando o Seu Primeiro Token do Zero nos Padrões Web3               |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Projeto 4|
