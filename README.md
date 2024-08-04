@@ -134,13 +134,13 @@
 
 |Origem|Nome|Detalhes|Ferramentas|
 |------|----|--------|-----------|
-|:green_circle:|Criando e Utilizando a Sua Carteira de Criptomoedas                 |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
-|:green_circle:|Criando a Sua Primeira Criptomoeda da Rede Ethereum                 |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
-|:green_circle:|Desvendando os Contratos Inteligentes com Lógica de Programação     |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
-|:green_circle:|Criando o Seu Primeiro Token do Zero nos Padrões Web3               |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
-|:green_circle:|Criando um NFT na Prática
-|:green_circle:|Criando uma Organização Autônoma Descentralizada nos Padrões Web3   |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
-|:green_circle:|Crie o seu NFT de Pokémon com Blockchain                            |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
-|:green_circle:|Explorando NFTs com Lógica de Programação                           |<a projeto em desenvolvimento ">Clique-me</a>|xxxxxxxx|
+|:green_circle:|Criando e Utilizando a Sua Carteira de Criptomoedas                 |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Projeto 1|
+|:green_circle:|Criando a Sua Primeira Criptomoeda da Rede Ethereum                 |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Projeto 2|
+|:green_circle:|Desvendando os Contratos Inteligentes com Lógica de Programação     |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Projeto 3|
+|:green_circle:|Criando o Seu Primeiro Token do Zero nos Padrões Web3               |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Projeto 4|
+|:green_circle:|Criando um NFT na Prática                                           |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Projeto 5|
+|:green_circle:|Criando uma Organização Autônoma Descentralizada nos Padrões Web3   |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Projeto 6|
+|:green_circle:|Crie o seu NFT de Pokémon com Blockchain                            |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Projeto 7|
+|:green_circle:|Explorando NFTs com Lógica de Programação                           |<a href="https://github.com/rdeconti/Projeto-DIO-Ruby-Electroplace">Clique-me</a>|Projeto 8|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
